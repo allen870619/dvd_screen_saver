@@ -15,8 +15,8 @@ class DVDCreator{
     
     // data
     let ratio: Double = 75
-    let numTotal = 1
-    let betweenEachTime: Double = 0.2
+    let numTotal = 100
+    let betweenEachTime: Double = 0.1
     var isBreak = false
     var shiftData: [(dx: CGFloat, dy: CGFloat, sx: CGFloat, sy: CGFloat)] = [] // d: distance, s: speed
     var desireRange: ClosedRange<Double>!

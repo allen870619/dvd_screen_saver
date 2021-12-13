@@ -42,7 +42,6 @@
 		9F5FA3E7274F1398002AC2D6 = {
 			isa = PBXGroup;
 			children = (
-				9F6D159727660739009C9F4E /* DVDCreator.swift */,
 				9F5FA3F2274F1398002AC2D6 /* dvdPlayerDemo */,
 				9F5FA3F1274F1398002AC2D6 /* Products */,
 			);
@@ -59,6 +58,7 @@
 		9F5FA3F2274F1398002AC2D6 /* dvdPlayerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				9F6D159727660739009C9F4E /* DVDCreator.swift */,
 				9F5FA3F3274F1398002AC2D6 /* AppDelegate.swift */,
 				9F5FA3F5274F1398002AC2D6 /* SceneDelegate.swift */,
 				9F5FA3F7274F1398002AC2D6 /* ViewController.swift */,
